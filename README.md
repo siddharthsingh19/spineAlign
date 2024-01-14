@@ -1,0 +1,1 @@
+# This is a react based website for a therapy equipments business spineAlign.
