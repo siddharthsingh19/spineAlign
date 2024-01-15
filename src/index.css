@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.heightcalc{
+    height: calc(100vh - 70px);
+    /* height: 100vh; */
+}
